@@ -11,5 +11,16 @@
     <orderEntry type="library" name="pytorch-engine-0.22.0" level="project" />
     <orderEntry type="library" name="api-0.22.0" level="project" />
     <orderEntry type="library" name="json-20230227" level="project" />
+    <orderEntry type="library" name="jackson-annotations-2.14.2" level="project" />
+    <orderEntry type="library" name="jackson-core-2.14.2" level="project" />
+    <orderEntry type="library" name="jackson-databind-2.14.2" level="project" />
+    <orderEntry type="library" name="telegrambots-6.5.0" level="project" />
+    <orderEntry type="library" name="telegrambots-meta-6.5.0" level="project" />
+    <orderEntry type="library" name="httpclient-4.5.13" level="project" />
+    <orderEntry type="library" name="httpcore-4.4.14" level="project" />
+    <orderEntry type="library" name="commons-logging-1.2" level="project" />
+    <orderEntry type="library" name="slf4j-api-1.7.36" level="project" />
+    <orderEntry type="library" name="slf4j-simple-1.7.36" level="project" />
+    <orderEntry type="library" name="commons-lang3-3.12.0" level="project" />
   </component>
 </module>
